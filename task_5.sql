@@ -1,12 +1,12 @@
 use task_5;
--- Customers table
+
 CREATE TABLE Customers (
     customer_id INTEGER PRIMARY KEY,
     customer_name TEXT NOT NULL,
     city TEXT
 );
 
--- Orders table
+
 CREATE TABLE Orders (
     order_id INTEGER PRIMARY KEY,
     customer_id INTEGER,
