@@ -6,7 +6,7 @@ To learn how to combine and retrieve data from multiple related tables using var
 
 🏫 **Project: Customer Service Database**
 
-This task expands the school management database to demonstrate how different join types work when connecting relational data.
+This task expands the customer service database to demonstrate how different join types work when connecting relational data.
 
 📋 **Tables Used:**
 
@@ -43,10 +43,7 @@ This task expands the school management database to demonstrate how different jo
 
 📁 **Files Included:**
 
-- `task_5.sql` – SQL scripts containing:
-  - Table creation
-  - Sample data insertion
-  - Join queries
+- `task_5.sql` – SQL script
 - `outputs of task 5/` – Screenshots or output files of executed queries to validate results.
 
 📌 **Notes:**
